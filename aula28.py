@@ -1,1 +1,2 @@
- 
+ # Operador while e break
+

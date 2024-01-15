@@ -20,5 +20,4 @@ def executa(funcao, *args):
 print(
     executa(saudacao, 'Bom dia', 'Luiz')
 )
-print(
-    executa(saudacao, 'Boa noite', 'Maria')
+print(executa(saudacao, 'Boa noite', 'Maria'))
